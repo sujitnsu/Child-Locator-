@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "307481661245",
+    "firebase_url": "https://childlocator-a4d4a.firebaseio.com",
+    "project_id": "childlocator-a4d4a",
+    "storage_bucket": "childlocator-a4d4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307481661245:android:1fc0d2b6b91eb5e5",
+        "android_client_info": {
+          "package_name": "com.example.ridowanahmed.childlocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307481661245-6for1qbphnvdc3db0gjl7ue6knr1otjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ridowanahmed.childlocator",
+            "certificate_hash": "6e0ae099ca0c7103fe22bf89da409a043d3d28e8"
+          }
+        },
+        {
+          "client_id": "307481661245-ams9l8k3jnir3ml80d900cj7lbbl5qft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ridowanahmed.childlocator",
+            "certificate_hash": "d1aae0ebc8442118af1df5af9b5c4b085b7855f4"
+          }
+        },
+        {
+          "client_id": "307481661245-rf4echa07i0504kiptut5jdje7tdodik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO6errASfHEes_AHBbqkRerDMZpe6KhNk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307481661245-rf4echa07i0504kiptut5jdje7tdodik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
